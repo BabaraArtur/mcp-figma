@@ -1,0 +1,21 @@
+{
+  "name": "mcp-figma",
+  "version": "1.0.0",
+  "description": "Ein Repository für das MCP Figma Projekt.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabaraArtur/mcp-figma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BabaraArtur/mcp-figma/issues"
+  },
+  "homepage": "https://github.com/BabaraArtur/mcp-figma#readme"
+}
